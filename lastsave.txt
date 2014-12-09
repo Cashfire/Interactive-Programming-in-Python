@@ -1,0 +1,57 @@
+
+R version 3.1.2 (2014-10-31) -- "Pumpkin Helmet"
+Copyright (C) 2014 The R Foundation for Statistical Computing
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> getwd
+function () 
+.Internal(getwd())
+<bytecode: 0x0000000008cc06d0>
+<environment: namespace:base>
+> help(directory)
+No documentation for ‘directory’ in specified packages and libraries:
+you could try ‘??directory’
+> ??directory
+> utils::RHOME 
+Error: 'RHOME' is not an exported object from 'namespace:utils'
+> wd
+Error: object 'wd' not found
+> RHOME
+Error: object 'RHOME' not found
+> home
+Error: object 'home' not found
+> help(home)
+No documentation for ‘home’ in specified packages and libraries:
+you could try ‘??home’
+> x <- c(3, 5, 1, 10, 12, 6)
+> x[x %in% 1:5] <- 0  
+> x
+[1]  0  0  0 10 12  6
+> ?%in% 
+Error: unexpected SPECIAL in "?%in%"
+> help(%in% )
+Error: unexpected SPECIAL in "help(%in%"
+> %in% 
+Error: unexpected SPECIAL in "%in%"
+> info(%in% )
+Error: unexpected SPECIAL in "info(%in%"
+> help(%in% )
+Error: unexpected SPECIAL in "help(%in%"
+> help("%in%" )
+> help("%in%" )
+> save.image("F:\\niniProgramming\\courseraR\\shanini")
+> 
