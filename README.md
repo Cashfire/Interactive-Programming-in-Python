@@ -21,7 +21,7 @@ Rice University<br />
 
 The detail course syllabus can be seen at www.codeskulptor.org/coursera/interactivepython.html. 
 
-Week | Topics | Project
+Week | Topics | Projects
 ---|---|---
 0 | Statements, expressions, variables | ...
 1 | Functions, logic, conditionals | "Rock-Paper-Scissors-Lizard-Spock" game
@@ -32,3 +32,15 @@ Week | Topics | Project
 6 | Classes, tiled images | "Blackjack" game
 7 | Acceleration and friction, spaceship class, sprite class, sound | Spaceship from "RiceRocks" game
 8 | Sets, groups of sprites, collisions, sprite animation | Full "RiceRocks" game
+
+
+- Distinction Grading Policy
+The student’s performance in this course met the standard for Distinction as defined by the course instructor.
+
+The final grade was based on a weighted combination of one-third of the quiz scores and two-thirds of the mini-project scores (each scaled to 100). To receive a Verified Certificate with Distinction, your final grade should be greater than or equal to 90.
+
+- Coursera Identity Verification
+Coursera has verified the photo identification and keystroke profile of the student and their successful participation in the course.
+
+- How should I list my course on my resume/C.V.?
+Coursera recommends "An Introduction to Interactive Programming in Python by Rice University on Coursera. Certificate earned on November 7, 2015".
