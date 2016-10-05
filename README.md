@@ -2,21 +2,23 @@
 This class consists of two parts that are five and four weeks long, respectively.
 
 ### An Introduction to Interactive Programming in Python (Part 1)
-Grade Achieved: 100.0%
-Completed by Mao Ye on October 17, 2015
-5 weeks  |  7-10 hours/week
-Joe Warren, Scott Rixner, John Greiner & Stephen Wong
-Rice University
+Grade Achieved: 100.0% <br />
+Completed by Mao Ye on October 17, 2015 <br />
+5 weeks  |  7-10 hours/week <br />
+Joe Warren, Scott Rixner, John Greiner & Stephen Wong<br />
+Rice University<br />
 [Course certificate](https://www.coursera.org/account/accomplishments/certificate/ADD6B6CVQ7)
+
 ### An Introduction to Interactive Programming in Python (Part 2)
-Grade Achieved: 99.0%
-Completed by Mao Ye on November 7, 2015
-4 weeks  |  7-10 hours/week
-Joe Warren, Scott Rixner, John Greiner & Stephen Wong
-Rice University
+Grade Achieved: 99.0%<br />
+Completed by Mao Ye on November 7, 2015<br />
+4 weeks  |  7-10 hours/week<br />
+Joe Warren, Scott Rixner, John Greiner & Stephen Wong<br />
+Rice University<br />
 [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/PWP625THB8)
+
 ## syllabus
-The detail course syllabus can be seen at www.codeskulptor.org/coursera/interactivepython.html.
+The detail course syllabus can be seen at www.codeskulptor.org/coursera/interactivepython.html. <br />
 Week | Topics | Project
 -----|--------|--------------
 0 | Statements, expressions, variables | ...
