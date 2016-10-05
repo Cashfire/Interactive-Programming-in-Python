@@ -18,9 +18,11 @@ Rice University<br />
 [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/PWP625THB8)
 
 ## syllabus
-The detail course syllabus can be seen at www.codeskulptor.org/coursera/interactivepython.html. <br />
+
+The detail course syllabus can be seen at www.codeskulptor.org/coursera/interactivepython.html. 
+
 Week | Topics | Project
------|--------|--------------
+---|---|---
 0 | Statements, expressions, variables | ...
 1 | Functions, logic, conditionals | "Rock-Paper-Scissors-Lizard-Spock" game
 2 | Event-driven programming, local and global variables, buttons and input fields | "Guess the Number" game
