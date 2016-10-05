@@ -1,14 +1,14 @@
 # Interactive Programming in Python
 This class consists of two parts that are five and four weeks long, respectively.
 
-## An Introduction to Interactive Programming in Python (Part 1)
+### An Introduction to Interactive Programming in Python (Part 1)
 Grade Achieved: 100.0%
 Completed by Mao Ye on October 17, 2015
 5 weeks  |  7-10 hours/week
 Joe Warren, Scott Rixner, John Greiner & Stephen Wong
 Rice University
 [Course certificate](https://www.coursera.org/account/accomplishments/certificate/ADD6B6CVQ7)
-## An Introduction to Interactive Programming in Python (Part 2)
+### An Introduction to Interactive Programming in Python (Part 2)
 Grade Achieved: 99.0%
 Completed by Mao Ye on November 7, 2015
 4 weeks  |  7-10 hours/week
