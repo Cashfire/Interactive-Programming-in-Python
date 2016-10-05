@@ -34,13 +34,13 @@ Week | Topics | Projects
 8 | Sets, groups of sprites, collisions, sprite animation | Full "RiceRocks" game
 
 
-- Distinction Grading Policy
+- Distinction Grading Policy <br />
 The student’s performance in this course met the standard for Distinction as defined by the course instructor.
 
 The final grade was based on a weighted combination of one-third of the quiz scores and two-thirds of the mini-project scores (each scaled to 100). To receive a Verified Certificate with Distinction, your final grade should be greater than or equal to 90.
 
-- Coursera Identity Verification
+- Coursera Identity Verification<br />
 Coursera has verified the photo identification and keystroke profile of the student and their successful participation in the course.
 
-- How should I list my course on my resume/C.V.?
+- How should I list my course on my resume/C.V.?<br />
 Coursera recommends "An Introduction to Interactive Programming in Python by Rice University on Coursera. Certificate earned on November 7, 2015".
